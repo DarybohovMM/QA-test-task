@@ -1,0 +1,66 @@
+¹1 
+Software environment:
+Platform: Mobile
+OS: iOS 14.4
+Summary: [Mobile] iOS: The message is not forwarded to the chat after selecting the message and tapping on the “Forward” button.
+Description: The message is not forwarded to the chat after selecting the message and tapping on the “Forward” button.
+Steps to reproduce:  
+1. Open the Telegram app.
+2. Go to the chat with user.
+3. Select the message.
+4. Tap on the “Forward” button in the list of options.
+5. Select the chat where the message will be forwarded.
+6. Tap on the “Send” button.
+7. Pay attention to the absence of the forwarded message in the chat.
+Actual result: Any action is not occurred on the app after pressing the “Forward” button .
+Expected result: The selected message is forwarded to the chat after selecting the message and tapping on the “Forward” button.
+Additional info:
+iPhone 7 plus iOS 14.4
+The bus is unreal
+ Attached Files:
+The screen and video would be here
+
+
+
+
+¹2 
+Software environment:
+Platform: Mobile
+OS: iOS 14.4
+Summary: [Mobile] iOS: The audio message is sent to the chat with blocked user after blocking him.
+Description: The audio message is sent to the chat with blocked user after blocking him.
+Preconditions:
+The user is blocked by another user.
+Steps to reproduce:  
+1. Open the Telegram app.
+2. Go to the chat with blocked user.
+3. Record the audio message by tapping on the microphone icon.
+4. Pay attention to the message is delivered. 
+Actual result: The audio message is delivered to the blocked user after blocking him.
+Expected result: The “User is blocked you” error message is shown on the dialog with the blocked user.
+Additional info:
+The bus is unreal
+ Attached Files:
+The screen and video would be here
+
+
+
+
+¹3
+Software environment:
+Platform: Mobile
+OS: iOS 14.4
+Summary: [Mobile] iOS: The profile picture is not updated on the profile screen after uploading a new picture.
+Description: The profile picture is not updated on the profile screen after uploading a new picture.
+Steps to reproduce:  
+1. Open the Telegram app.
+2. Go to the settings.
+3. Tap on the “Set new photo or video” button under profile picture.
+4. Upload new picture from the gallery by tapping on the “Open gallery” button.
+5. Pay attention to the profile picture.
+Actual result: The profile picture is remained the same on the profile after uploading a new profile picture.
+Expected result: The profile picture is replaced by the new picture on the profile after uploading a new profile picture.
+Additional info:
+The bus is unreal
+ Attached Files:
+The screen and video would be here
